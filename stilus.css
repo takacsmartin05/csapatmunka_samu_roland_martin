@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-html{
-    background-color: antiquewhite;
-    text-align: center;
-
-}
-
-img{
-=======
 html {
     background-color: burlywood;
     text-align: center;
@@ -15,6 +6,5 @@ html {
 
 
 img {
->>>>>>> 4480f6068f389d8174be9d0e77e02e12a538e1fc
     max-width: 200px;
 }
